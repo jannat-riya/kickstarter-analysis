@@ -1,2 +1,6 @@
 # An Analysis of Kickstarter Campaigns
-* Performing analysis on Kickstarter data to uncover trends
+* [A brief description of the project]
+* [graphs and charts]
+* [recommendations for luise based on our findings]
+* [a descriptive commit message - in the commit box below]
+Performing analysis on Kickstarter data to uncover trends
