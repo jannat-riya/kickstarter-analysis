@@ -5,4 +5,6 @@
 * [a descriptive commit message - in the commit box below]
 Performing analysis on Kickstarter data to uncover trends
 Theater_Outcomes_vs_Launch.png
+https://github.com/jannat-riya/kickstarter-analysis/blob/244db76b9ba1028307f8f410fdbc91f765e095a9/Theater_Outcomes_vs_Launch.png
+
 
